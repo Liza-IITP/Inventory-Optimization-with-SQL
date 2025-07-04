@@ -18,22 +18,4 @@ Design a SQL-based inventory monitoring system to:
 - Analyze turnover and SKU performance
 - Forecast demand and reduce excess inventory
 
-## 🧩 Key Deliverables
-
-- ✅ Advanced SQL queries for:
-  - Stock level calculation
-  - Low inventory alerts
-  - Reorder point estimation
-  - Inventory turnover KPIs
-- ✅ Normalized database schema + ERD
-- ✅ Performance-optimized queries (indexes, joins, window functions)
-- ✅ Analytical summaries with business insights
-
-## 📊 Business Impact
-
-- 📉 Reduce stockouts and overstock
-- 💰 Lower holding costs
-- 📈 Improve supply chain efficiency
-- 😊 Enhance customer satisfaction
-
 > A smart inventory system starts with smarter queries.
